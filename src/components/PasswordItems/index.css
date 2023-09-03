@@ -1,0 +1,36 @@
+.list-item {
+  border: 2px solid #b6c3ca;
+  border-radius: 10px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 400px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.initial-container {
+  background-color: #10b981;
+  border-radius: 100px;
+  height: 40px;
+  width: 40px;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.button {
+  border: none;
+  background-color: transparent;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  outline: none;
+}
+.deleteimage {
+  height: 20px;
+  width: 20px;
+}
